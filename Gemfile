@@ -20,3 +20,5 @@ gem 'will_paginate'
 
 gem 'activeresource', require: 'active_resource'
 gem 'active-resource-pagination'
+
+gem 'activeadmin', github: 'gregbell/active_admin'
